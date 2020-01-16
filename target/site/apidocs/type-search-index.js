@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.objectorientedprogramming","l":"App"},{"p":"fi.tuni.tamk.tiko.objectorientedprogramming","l":"JSONObject"},{"p":"fi.tuni.tamk.tiko.objectorientedprogramming","l":"JSONObjectException"},{"p":"fi.tuni.tamk.tiko.objectorientedprogramming","l":"JsonParser"}]
